@@ -3,7 +3,7 @@
 ### Architecture:
 ![architecture-diagram](https://github.com/Mina2kamel/Real-Time-Data-Streaming-using-Apache-Nifi-AWS-Snowpipe-Stream-Task./blob/main/architecture.jpg)
 
-## Project Description
+## Project Description:
 - **Docker Compose Deployment:**
   - Utilizes Docker Compose to pull and run three images: JupyterLab, Zookeeper, and Apache NiFi.
   - These services are organized and run together on an AWS EC2 instance, acting as a virtual machine to host these applications.
