@@ -1,4 +1,4 @@
-# Real-Time Data Streaming using Apache Nifi, AWS, Snowpipe, Stream & Task
+# Real-Time Data Streaming using Apache Nifi, AWS and Snowflake.
 
 ### Architecture:
 ![architecture-diagram](https://github.com/Mina2kamel/Real-Time-Data-Streaming-using-Apache-Nifi-AWS-Snowpipe-Stream-Task./blob/main/architecture.jpg)
